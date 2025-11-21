@@ -1,0 +1,984 @@
+Set_Index,Theme,Set_Name,Age,Pieces,Rating,Price
+0,Animal Crossing,Fly With Dodo Airlines,7,292,4.6,37.99
+1,Animal Crossing,Isabelle'S House Visit,6,389,4.7,39.99
+2,Animal Crossing,Julian'S Birthday Party,6,170,4.9,14.99
+3,Animal Crossing,Bunnie'S Outdoor Activities,6,164,4.9,19.99
+4,Animal Crossing,Stargazing With Celeste,6,78,4.9,9.99
+5,Animal Crossing,Blathers'S Museum Collection,7,543,4.8,79.99
+6,Animal Crossing,K.K.'S Concert At The Plaza,7,550,4.8,79.99
+7,Animal Crossing,Able Sisters Clothing Shop,6,322,4.9,39.99
+8,Animal Crossing,Leif'S Caravan & Garden Shop,7,263,5.0,29.99
+9,Animal Crossing,Goldie'S Cosy House,6,149,4.8,19.99
+10,Animal Crossing,Nook'S Cranny & Rosie'S House,7,535,4.9,74.99
+11,Animal Crossing,Creative Houses: Seasons Of Fun,7,814,4.9,89.99
+12,Animal Crossing,Kapp'N'S Island Boat Tour,6,233,5.0,29.99
+13,Architecture,Neuschwanstein Castle,18,3455,5.0,269.99
+14,Architecture,Statue Of Liberty,16,1685,4.5,99.99
+15,Architecture,Trevi Fountain,18,1880,4.9,159.99
+16,Architecture,Notre-Dame De Paris,18,4383,4.7,229.99
+17,Architecture,Himeji Castle,18,2125,4.9,159.99
+18,Architecture,Great Pyramid Of Giza,18,1476,4.8,139.99
+19,Architecture,Paris,12,649,4.3,49.99
+20,Architecture,New York City,12,598,4.7,49.99
+21,Architecture,London,12,468,4.8,39.99
+22,Art,The Milky Way Galaxy,18,3091,4.9,199.99
+23,Art,Vincent Van Gogh – Sunflowers,18,2615,4.6,199.99
+24,Art,Hokusai – The Great Wave,18,1810,4.5,99.99
+25,Art,Love,18,791,4.8,79.99
+26,Art,Keith Haring – Dancing Figures,18,1773,5.0,119.99
+27,Art,Mona Lisa,18,1503,4.7,99.99
+28,Art,The Fauna Collection - Tiger,18,744,5.0,59.99
+29,Batman,Batman: The Animated Series Gotham City,18,4210,4.5,299.99
+30,Batman,Arkham Asylum,18,2953,4.8,299.99
+31,Batman,The Batman Batmobile,9,330,,29.99
+32,Batman,Batman: The Classic Tv Series Batmobile,18,1822,4.6,149.99
+33,Batman,Batman V Superman Batmobile,9,220,,29.99
+34,Batman,Batman Tumbler Vs. Two-Face & The Joker,8,429,4.0,59.99
+35,Batman,Batman Logo,12,678,,79.99
+36,Batman,Batman & Robin Batmobile,9,272,,29.99
+37,Batman,Batman Forever Batmobile,12,909,4.7,99.99
+38,Batman,Batman Mech Armour,6,140,4.7,14.99
+39,Batman,Batman With The Batmobile Vs. Harley Quinn And Mr. Freeze,8,435,4.6,59.99
+40,Batman,Batman 8In1 Figure,10,325,2.4,24.99
+41,Batman,Batman Construction Figure And The Bat-Pod Bike,12,713,4.7,74.99
+42,Batman,Batman & Batmobile Vs. Mr. Freeze,4,63,4.9,19.99
+43,Batman,Superman Mech Vs. Lex Luthor,6,120,4.6,14.99
+44,Bluey,Bluey'S Family House,4,382,3.4,69.99
+45,Bluey,Bluey'S Beach & Family Car Trip,4,133,4.3,29.99
+46,Bluey,Playground Fun With Bluey And Chloe,4,104,5.0,19.99
+47,Bluey,Ice Cream Trip With Bluey,2,22,4.6,29.99
+48,Bluey,Bluey'S Family House With Memory Game,3,83,4.5,69.99
+49,Botanical Collection,Bouquet Of Pink Roses,18,789,5.0,59.99
+50,Botanical Collection,Mini Orchid,18,274,4.7,29.99
+51,Botanical Collection,Happy Plants,9,217,4.8,19.99
+52,Botanical Collection,Hibiscus,18,660,5.0,69.99
+53,Botanical Collection,Japanese Red Maple Bonsai Tree,18,474,4.7,59.99
+54,Botanical Collection,Mini Bonsai Trees,18,709,5.0,59.99
+55,Botanical Collection,Plum Blossom,18,327,4.8,29.99
+56,Botanical Collection,Pretty Pink Flower Bouquet,18,749,4.8,59.99
+57,Botanical Collection,Petite Sunny Bouquet,9,373,5.0,29.99
+58,Botanical Collection,Wildflower Bouquet,18,939,4.7,59.99
+59,Botanical Collection,Orchid,18,608,5.0,49.99
+60,Botanical Collection,Poinsettia,18,608,4.7,49.99
+61,Botanical Collection,Chrysanthemum,18,278,4.8,29.99
+62,Botanical Collection,Tiny Plants,18,758,5.0,49.99
+63,Botanical Collection,Bonsai Tree,18,878,4.4,49.99
+64,Botanical Collection,Lucky Bamboo,18,325,4.6,29.99
+65,Botanical Collection,Christmas Table Decoration,12,433,4.5,39.99
+66,Botanical Collection,Cherry Blossoms,8,430,4.9,14.99
+67,Botanical Collection,Daffodils,8,216,4.6,14.99
+68,Botanical Collection,Succulents,18,771,4.6,49.99
+69,Botanical Collection,Flower Arrangement,18,1161,4.7,109.99
+70,Botanical Collection,Bouquet Of Roses,18,822,5.0,59.99
+71,Botanical Collection,Daisies,9,133,,14.99
+72,Botanical Collection,Wreath,18,1194,4.8,99.99
+73,Botanical Collection,Lotus Flowers,8,220,4.8,14.99
+74,Botanical Collection,Flower Bouquet,18,756,4.6,59.99
+75,Botanical Collection,Tulip Bouquet,18,576,,59.99
+76,Botanical Collection,Flowering Cactus,9,482,,29.99
+77,Botanical Collection,Peace Lily,18,474,,59.99
+78,Botanical Collection,Roses,8,120,4.7,14.99
+79,Braille Bricks,Play With Braille – English Alphabet,6,287,3.4,89.99
+80,Braille Bricks,Play With Braille – Italian Alphabet,6,287,,89.99
+81,Braille Bricks,Play With Braille – French Alphabet,6,287,5.0,89.99
+82,Braille Bricks,Play With Braille – Spanish Alphabet,6,287,,89.99
+83,Braille Bricks,Play With Braille – German Alphabet,6,287,4.0,89.99
+84,Brickheadz,"Mike, Dustin, Lucas And Will Figures",10,542,5.0,39.99
+85,Brickheadz,Elphaba & Glinda Figures,10,325,5.0,19.99
+86,Brickheadz,Eeyore,10,156,4.8,9.99
+87,Brickheadz,Potted Groot,10,113,4.8,9.99
+88,Brickheadz,Stitch,10,152,4.9,9.99
+89,Brickheadz,Tom & Jerry Figures,10,212,5.0,14.99
+90,Brickheadz,Drift & Raven Figures,10,280,4.9,19.99
+91,Brickheadz,Eve & Wall•E,10,155,4.9,14.99
+92,Brickheadz,Iron Spider-Man,10,91,4.9,9.99
+93,Brickheadz,Luke Skywalker (Rebel Pilot),10,138,5.0,9.99
+94,Brickheadz,Obi-Wan Kenobi & Darth Vader,10,260,4.7,19.99
+95,Brickheadz,Dumbo,10,176,4.8,9.99
+96,Brickheadz,Revenge Of The Sith Heroes & Villains,10,656,4.8,49.99
+97,Brickheadz,"Carl, Russell & Kevin",10,308,5.0,19.99
+98,Brickheadz,Buggy The Clown Figure,10,176,5.0,9.99
+99,Brickheadz,Wednesday & Enid,10,239,4.9,19.99
+100,Brickheadz,Red Panda Mei,10,121,5.0,9.99
+101,Brickheadz,The Goblet Of Fire Figures,10,671,4.0,49.99
+102,Brickheadz,Bumblebee Robot & Vehicle,10,253,5.0,19.99
+103,Brickheadz,Optimus Prime Robot & Vehicle,10,237,4.9,19.99
+104,Brickheadz,"Joy, Sadness & Anxiety",10,300,4.9,19.99
+105,Brickheadz,Luna Lovegood & Thestral Figures,10,292,5.0,19.99
+106,Brickheadz,Iron Man Mk5 Figure,10,101,5.0,9.99
+107,Brickheadz,Clone Commander Cody,10,147,4.9,9.99
+108,Brickheadz,Batman 8In1 Figure,10,325,2.4,24.99
+109,Brickheadz,Captain America & Red Hulk Figures,10,202,5.0,19.99
+110,City,Yellow Delivery Truck,8,1061,4.9,99.99
+111,City,The City Tower,8,1941,4.0,199.99
+112,City,Heavy-Duty Recovery Tow Truck With Crane,8,793,4.8,79.99
+113,City,Tracks,5,20,3.5,19.99
+114,City,Burger Truck,5,194,4.9,19.99
+115,City,Police Boat Chase,6,264,5.0,29.99
+116,City,Lego® City Advent Calendar 2025,5,186,4.8,26.99
+117,City,Road Plates,5,112,3.5,19.99
+118,City,Police Car,5,94,5.0,9.99
+119,City,Yellow Construction Wheel Loader,4,81,4.8,14.99
+120,City,F1® Pit Stop & Pit Crew With Ferrari Car,6,322,4.8,29.99
+121,City,Yellow Construction Excavator,8,633,4.8,54.99
+122,City,Central Train Station,7,752,5.0,89.99
+123,City,Modular Space Station,7,1097,4.9,99.99
+124,City,Off-Road 4X4 Mountain Truck,6,221,4.7,19.99
+125,City,Donut Truck,5,196,4.9,19.99
+126,City,Modular Galactic Spaceship,7,717,4.9,79.99
+127,City,Express Passenger Train,7,764,4.3,159.99
+128,City,Blue Monster Truck,5,148,4.5,14.99
+129,City,Emergency Air Ambulance Airplane,6,403,5.0,49.99
+130,City,Robot World Roller-Coaster Park,8,986,4.7,99.99
+131,City,Passenger Airplane,7,913,4.7,99.99
+132,City,No Limits: Race Car Ramp Track,6,436,4.9,49.99
+133,City,F1® Truck With Rb20 & Amr24 F1® Cars,8,1086,4.8,99.99
+134,City,Police Station,6,668,5.0,64.99
+135,City,Fire Station With Fire Truck,6,843,3.8,79.99
+136,City,Red Double-Decker Sightseeing Bus,7,384,4.8,29.99
+137,City,Yellow Bulldozer,8,682,4.9,59.99
+138,City,Explorers' Arctic Polar Express Train,7,1517,5.0,199.99
+139,City,Construction Steamroller,5,78,4.9,9.99
+140,City,Emergency Ambulance,5,184,4.7,19.99
+141,City,Fire Rescue Helicopter,5,85,5.0,9.99
+142,City,Arctic Explorer Science Lab Truck,8,1064,4.7,109.99
+143,City,Jungle Explorer Helicopter At Base Camp,8,881,4.8,99.99
+144,City,Car Transporter Truck With Sports Cars,7,998,4.7,99.99
+145,City,Mobile Police Dog Training,5,197,4.7,19.99
+146,City,Seaside Harbor With Cargo Ship,8,1226,4.9,109.99
+147,City,F1® Grid With Vcarb & Sauber Race Cars,6,313,4.9,29.99
+148,City,Red Sports Car,5,109,4.5,9.99
+149,City,Lifeguard Beach Rescue Truck,6,214,4.8,24.99
+150,City,Police Motorcycle Chase,4,65,3.7,9.99
+151,City,Downtown Streetcar And Station,7,811,5.0,89.99
+152,City,Airplane Vs. Hospital Bed Race Car Pack,5,70,4.3,9.99
+153,City,Police Prison Island,7,980,5.0,99.99
+154,City,Interstellar Spaceship,6,240,5.0,19.99
+155,City,F1® Driver With Mclaren Race Car,6,86,4.6,12.99
+156,City,Fire Command Truck,7,502,4.6,54.99
+157,City,Fire Ladder Truck,4,82,4.9,19.99
+158,City,Fire Rescue Plane,6,478,4.9,59.99
+159,City,F1® Garage & Mercedes-Amg & Alpine Cars,7,678,5.0,79.99
+160,City,Construction Trucks And Wrecking Ball Crane,4,235,5.0,49.99
+161,City,4X4 Fire Truck With Rescue Boat,5,301,5.0,29.99
+162,City,Space Explorer Rover And Alien Life,6,311,4.9,29.99
+163,City,Tow Truck And Sports Car Repair,4,101,4.8,19.99
+164,City,Police Mobile Crime Lab Truck,7,674,4.9,54.99
+165,City,Fire Rescue Boat,5,144,5.0,19.99
+166,City,Go-Karts And Race Drivers,5,99,4.8,9.99
+167,City,"Helicopter, Fire Truck & Submarine Remix",7,874,4.8,59.99
+168,City,Space Base And Rocket Launchpad,8,1422,4.9,139.99
+169,City,F1® Williams Racing & Haas F1® Race Cars,4,92,4.1,19.99
+170,City,Police Car And Muscle Car Chase,6,213,4.9,19.99
+171,City,Switch Tracks,5,8,4.6,19.99
+172,City,Holiday Adventure Camper Van,6,385,4.9,29.99
+173,City,Space Science Lab,6,560,4.8,39.99
+174,City,Custom Police Car Garage,6,489,4.9,49.99
+175,City,Yellow Mobile Construction Crane,9,1116,4.9,109.99
+176,City,Race Car And Car Carrier Truck,6,328,5.0,29.99
+177,City,Arctic Explorer Ship,7,815,4.7,149.99
+178,City,Scrapyard With Cars,7,871,4.8,79.99
+179,City,Spaceship And Asteroid Discovery,4,126,4.8,19.99
+180,City,Jungle Explorer Off-Road Truck,6,314,5.0,29.99
+181,City,Pizza Vs. Fire Truck Race Car Pack,5,70,4.8,9.99
+182,City,Cargo Train,6,1226,5.0,189.99
+183,City,Red Farm Tractor With Trailer & Sheep,4,116,4.9,19.99
+184,Classic,Lego® Large Creative Brick Box,4,790,4.9,49.99
+185,Classic,Lego® Medium Creative Brick Box,4,484,4.8,29.99
+186,Classic,Creative Space Planets,5,450,4.9,29.99
+187,Classic,Green Baseplate,4,1,3.3,8.99
+188,Classic,Creative Food Friends,4,150,4.8,9.99
+189,Classic,Vibrant Creative Brick Box,4,850,5.0,49.99
+190,Classic,White Baseplate,4,1,5.0,8.99
+191,Classic,Creative Dinosaurs,5,450,5.0,34.99
+192,Classic,Magical Transparent Box,5,340,5.0,19.99
+193,Classic,Creative Suitcase,4,213,5.0,19.99
+194,Classic,Creative Vehicles,5,900,4.7,54.99
+195,Classic,Blue Baseplate,4,1,2.5,8.99
+196,Classic,Gray Baseplate,4,1,3.4,14.99
+197,Classic,Cool Creative Box,5,510,5.0,29.99
+198,Classic,Creative Pets,5,450,4.8,34.99
+199,Classic,Creative Happy Box,5,680,4.7,39.99
+200,Classic,Creative Happy Box,5,680,4.7,39.99
+201,Classic,Creative Build-And-Play Box,5,750,5.0,49.99
+202,Creator 3In1,Record Player With Flowers,8,366,4.8,29.99
+203,Creator 3In1,Exotic Peacock,7,355,4.9,19.99
+204,Creator 3In1,Wild Animals: Panda Family,8,626,4.8,39.99
+205,Creator 3In1,Forest Animals: Red Fox,9,667,4.9,49.99
+206,Creator 3In1,Wild Animals: Tropical Toucan,7,225,5.0,14.99
+207,Creator 3In1,Exotic Parrot,7,253,4.7,24.99
+208,Creator 3In1,Wild Animals: Pink Flamingo,8,288,4.8,24.99
+209,Creator 3In1,Retro Camera,8,261,4.6,19.99
+210,Creator 3In1,Typewriter With Flowers,8,363,4.7,29.99
+211,Creator 3In1,Space Shuttle,6,144,4.6,9.99
+212,Creator 3In1,Magical Unicorn,7,145,4.9,9.99
+213,Creator 3In1,Retro Telephone,8,383,4.9,29.99
+214,Creator 3In1,Playful Cat,8,407,4.9,24.99
+215,Creator 3In1,Haunted Mansion,9,736,4.7,89.99
+216,Creator 3In1,Beautiful Horse,9,685,5.0,49.99
+217,Creator 3In1,Medieval Horse Knight Castle,9,1371,4.6,119.99
+218,Creator 3In1,Wild Animals: Surprising Spider,7,153,5.0,12.99
+219,Creator 3In1,Red Dragon,6,149,5.0,9.99
+220,Creator 3In1,Adorable Dogs,7,475,4.9,29.99
+221,Creator 3In1,Medieval Dragon,9,715,4.8,59.99
+222,Creator 3In1,Majestic Tiger,9,755,4.8,49.99
+223,Creator 3In1,Unicorn Castle,8,390,4.8,39.99
+224,Creator 3In1,Cute Bunny,8,326,5.0,19.99
+225,Creator 3In1,Wild Animals: Majestic Rhino With Birds,9,780,5.0,59.99
+226,Creator 3In1,Aircraft: Race Plane,7,178,4.9,14.99
+227,Creator 3In1,Retro Roller Skate,8,342,5.0,29.99
+228,Creator 3In1,Flatbed Truck With Helicopter,7,270,5.0,19.99
+229,Creator 3In1,Pirate Ship,9,1264,4.7,129.99
+230,Creator 3In1,Wild Safari Animals,9,780,4.9,64.99
+231,Creator 3In1,T. Rex,9,626,4.9,59.99
+232,Creator 3In1,Space Astronaut,9,647,5.0,49.99
+233,Creator 3In1,Flowers In Watering Can,8,420,4.9,29.99
+234,Creator 3In1,Tropical Ukulele,8,387,4.9,29.99
+235,Creator 3In1,Mighty Dinosaurs,7,174,4.7,14.99
+236,Creator 3In1,Hamster Wheel,8,416,4.6,29.99
+237,Creator 3In1,Space Robot,8,281,4.9,24.99
+238,Creator 3In1,Cozy House,8,808,4.8,59.99
+239,Dc,Batman: The Animated Series Gotham City,18,4210,4.5,299.99
+240,Dc,Arkham Asylum,18,2953,4.8,299.99
+241,Dc,The Batman Batmobile,9,330,,29.99
+242,Dc,Batman V Superman Batmobile,9,220,,29.99
+243,Dc,Batman: The Classic Tv Series Batmobile,18,1822,4.6,149.99
+244,Dc,Batman Logo,12,678,,79.99
+245,Dc,Batman Tumbler Vs. Two-Face & The Joker,8,429,4.0,59.99
+246,Dc,Batman Mech Armour,6,140,4.7,14.99
+247,Dc,Batman Forever Batmobile,12,909,4.7,99.99
+248,Dc,Batman With The Batmobile Vs. Harley Quinn And Mr. Freeze,8,435,4.6,59.99
+249,Dc,Batman & Robin Batmobile,9,272,,29.99
+250,Dc,Batman Construction Figure And The Bat-Pod Bike,12,713,4.7,74.99
+251,Dc,Batman 8In1 Figure,10,325,2.4,24.99
+252,Dc,Superman Mech Vs. Lex Luthor,6,120,4.6,14.99
+253,Dc,Batman & Batmobile Vs. Mr. Freeze,4,63,4.9,19.99
+254,Despicable Me 4,Minions And Banana Car,6,136,4.7,24.99
+255,Despicable Me 4,Minions And Gru'S Family Mansion,8,868,4.9,99.99
+256,Despicable Me 4,Minions' Music Party Bus,7,379,4.9,39.99
+257,Despicable Me 4,Brick-Built Gru And Minions,9,839,4.8,54.99
+258,Disney,Disney Castle,18,4837,4.8,399.99
+259,Disney,Lightning Mcqueen,9,270,,27.99
+260,Disney,Wall-E And Eve,18,811,4.8,69.99
+261,Disney,Beauty And The Beast Castle,18,2916,4.5,279.99
+262,Disney,Disney Pixar Luxo Jr.,18,613,4.8,69.99
+263,Disney,Snow White And The Seven Dwarfs' Cottage,18,2228,4.8,219.99
+264,Disney,Mini Disney Sleeping Beauty Castle,12,528,4.8,39.99
+265,Disney,Mini Disney Castle,12,567,4.6,39.99
+266,Disney,Magic Of Disney,18,1103,4.5,99.99
+267,Disney,Eeyore,10,156,4.8,9.99
+268,Disney,101 Dalmatians Puppy,18,1722,5.0,139.99
+269,Disney,Heihei,9,566,4.9,39.99
+270,Disney,Disney Tim Burton'S The Nightmare Before Christmas,18,2193,4.6,199.99
+271,Disney,‘Up’ House​,9,598,4.8,54.99
+272,Disney,Stitch,9,730,4.6,64.99
+273,Disney,Young Simba The Lion King,18,1445,4.9,129.99
+274,Disney,Lucky & Penny 101 Dalmatians Puppies,6,268,4.7,24.99
+275,Disney,Cruella De Vil'S Car,9,378,4.8,49.99
+276,Disney,Angel,9,784,5.0,64.99
+277,Disney,Simba The Lion King Cub,6,222,5.0,19.99
+278,Disney,Anna'S Sleigh Adventure,4,192,4.9,39.99
+279,Disney,Snow White'S Jewelry Box,6,358,5.0,44.99
+280,Disney,Captain Jack Sparrow'S Pirate Ship,18,2862,4.4,349.99
+281,Disney,Lilo And Stitch Beach House,9,834,4.9,89.99
+282,Disney,Mini Disney Ariel'S Castle,12,557,4.4,39.99
+283,Disney,Inside Out 2 Mood Cubes,9,394,4.8,34.99
+284,Disney,Cinderella'S Castle & Horse Carriage,6,596,4.5,79.99
+285,Disney,Moana'S Flowerpot,9,619,4.8,44.99
+286,Disney,Moana'S Island Fun,5,175,5.0,19.99
+287,Disney,Princess Castle & Royal Pets,6,787,5.0,119.99
+288,Disney,Moana'S Adventure Canoe,6,529,4.9,59.99
+289,Disney,Dumbo,10,176,4.8,9.99
+290,Disney,Arendelle Frozen Castle,5,177,4.9,29.99
+291,Disney,Lego® ǀ Disney Frozen Advent Calendar 2025,5,231,5.0,34.99
+292,Disney,Maleficent'S And Cruella De Vil'S Dresses,9,524,4.9,69.99
+293,Disney,Eve & Wall•E,10,155,4.9,14.99
+294,Disney,Mickey Mouse Clubhouse & Car,2,27,4.5,19.99
+295,Disney,Antonio'S Animal Sanctuary,6,310,5.0,39.99
+296,Disney,Kakamora Barge,7,572,5.0,99.99
+297,Disney,Ariel'S Crystal Cavern,4,141,4.6,29.99
+298,Disney,The Magical Madrigal House,7,1560,4.8,159.99
+299,Disney,Stitch,10,152,4.9,9.99
+300,Disney,Cinderella'S Dress,9,474,5.0,39.99
+301,Disney,Ariel'S Magical Underwater Palace,2,116,4.1,89.99
+302,Disney,"Carl, Russell & Kevin",10,308,5.0,19.99
+303,Disney,Winnie The Pooh'S Birthday Party,1,22,4.8,19.99
+304,Disney,Elsa & Bruni In The Enchanted Forest,2,31,5.0,32.99
+305,Disney,"Joy, Sadness & Anxiety",10,300,4.9,19.99
+306,Disney,Toy Story Celebration Train & Rc Car,4,206,4.8,39.99
+307,Disney,Mini Arendelle Castle & Elsa'S Ice Palace,5,306,4.6,49.99
+308,Disney,Isabela'S Flowerpot,9,641,4.4,44.99
+309,Disney,Mickey & Minnie Birthday Train,2,22,4.9,34.99
+310,Disney,Elsa'S Ice Palace,6,630,5.0,99.99
+311,Disney,Ariel'S Music Stage,4,60,4.8,15.99
+312,Disney,Mack At The Race,2,14,5.0,19.99
+313,Disney,Twirling Ariel,5,93,4.7,9.99
+314,Disney,Encanto Mini House,5,186,5.0,19.99
+315,Disney,Elsa'S Frozen Castle,4,163,4.9,44.99
+316,Dreamzzz,Cooper'S Tiger Mech & Zero'S Hot Rod Car,9,1006,4.9,99.99
+317,Dreamzzz,The Never Witch'S Midnight Raven,9,1203,4.9,99.99
+318,Dreamzzz,Castle Nocturnia,10,1742,4.6,199.99
+319,Dreamzzz,Mateo And Z-Blob The Knight Battle Mech,10,1333,4.8,129.99
+320,Dreamzzz,Nightmare Shark Submarine,9,1413,5.0,139.99
+321,Dreamzzz,Mateo Vs. Cyber Brain Mech,8,368,4.9,29.99
+322,Dreamzzz,Mateo And The Z-Blob Action Race Car,8,485,4.9,49.99
+323,Dreamzzz,Mateo'S Spray Paint Truck,9,929,5.0,99.99
+324,Dreamzzz,Izzie And Bunchurro The Gaming Bunny,7,252,5.0,19.99
+325,Dreamzzz,The Never Witch'S Nightmare Creatures,9,457,4.9,44.99
+326,Dreamzzz,Mateo'S Fire Chameleon,7,443,4.9,49.99
+327,Dreamzzz,Z-Blob'S Robot And Vehicle Adventures,7,121,5.0,9.99
+328,Dreamzzz,Bunchu'S Creative Animal Adventures,7,143,5.0,9.99
+329,Dreamzzz,Zoey'S Time Owl,8,359,4.7,29.99
+330,Dreamzzz,Cooper'S Robot Dinosaur C-Rex,9,917,4.9,79.99
+331,Dreamzzz,Zoey'S Cat Motorcycle,7,226,4.8,19.99
+332,Dreamzzz,Logan The Mighty Panda,7,342,4.8,29.99
+333,Dreamzzz,Cooper'S Gaming Controller Jet,7,266,4.5,19.99
+334,Dreamzzz,Izzie'S Dream Animals,8,328,4.7,39.99
+335,Duplo,Brick Box,1,65,4.4,29.99
+336,Duplo,Green Building Plate,1,1,4.0,12.99
+337,Duplo,Wild Animal Families: Penguins & Lions,2,10,5.0,9.99
+338,Duplo,Daily Routines: Bath Time,1,15,4.5,9.99
+339,Duplo,Bath Time Fun: Floating Animal Train,1,14,4.5,19.99
+340,Duplo,Caring For Animals At The Farm,2,74,4.7,54.99
+341,Duplo,First Time At The Airport,2,23,4.9,29.99
+342,Duplo,Mickey Mouse Clubhouse & Car,2,27,4.5,19.99
+343,Duplo,Number Train - Learn To Count,1,23,4.9,19.99
+344,Duplo,Alphabet Truck,2,36,4.9,39.99
+345,Duplo,Spin'S Motorcycle Adventure,2,24,4.8,19.99
+346,Duplo,Ariel'S Magical Underwater Palace,2,116,4.1,89.99
+347,Duplo,Mcqueen'S Visit To Doc'S Garage,2,35,5.0,29.99
+348,Duplo,3In1 Wild Animal Families,2,92,4.9,79.99
+349,Duplo,F1® Team Race Cars & Drivers,2,70,4.9,44.99
+350,Duplo,Interactive Adventure Train,2,57,4.8,79.99
+351,Duplo,Animal Train,1,19,4.9,19.99
+352,Duplo,Deluxe Brick Box,1,85,4.4,49.99
+353,Duplo,Train Bridge And Tracks Expansion Set,2,42,4.6,39.99
+354,Duplo,3In1 Dinosaurs On Wheels,3,108,4.9,69.99
+355,Duplo,Big Interactive Community Train,3,103,5.0,139.99
+356,Duplo,Big Feelings & Emotions,1,23,4.7,29.99
+357,Duplo,Ice Cream Trip With Bluey,2,22,4.6,29.99
+358,Duplo,Train Tunnel And Tracks Expansion Set,2,20,4.0,19.99
+359,Duplo,Truck & Tracked Excavator,2,20,4.8,19.99
+360,Duplo,Buildable People With Big Emotions,3,71,4.9,54.99
+361,Duplo,Funfair,2,53,4.9,49.99
+362,Duplo,Caring For Bees & Beehives,2,22,5.0,19.99
+363,Duplo,Daily Routines: Eating & Bedtime,1,28,5.0,29.99
+364,Duplo,Anna And Elsa'S Frozen Castle Party,2,54,4.9,59.99
+365,Duplo,Shape Sorter: Puppy House,1,17,4.9,29.99
+366,Duplo,Police Motorcycle,2,5,5.0,9.99
+367,Duplo,Winnie The Pooh'S Birthday Party,1,22,4.8,19.99
+368,Duplo,Ambulance & Driver,2,19,4.6,19.99
+369,Duplo,Balancing & Stacking Tree,1,27,4.6,19.99
+370,Duplo,Peppa Pig Garden And Tree House,2,20,5.0,19.99
+371,Duplo,Camping Trip,2,32,5.0,19.99
+372,Duplo,Peppa Pig Supermarket,2,70,4.9,69.99
+373,Duplo,3In1 Tree House,3,126,4.8,89.99
+374,Duplo,Bluey'S Family House With Memory Game,3,83,4.5,69.99
+375,Duplo,Creative Garden & Flowers,2,45,5.0,19.99
+376,Duplo,3In1 Space Shuttle Adventure,3,58,4.5,64.99
+377,Duplo,Peppa Pig Boat Trip,2,23,4.4,29.99
+378,Duplo,Cars And Trucks Brick Box,1,80,5.0,49.99
+379,Duplo,Elsa & Bruni In The Enchanted Forest,2,31,5.0,32.99
+380,Duplo,Peppa Pig Birthday House,2,59,4.9,44.99
+381,Duplo,3In1 Animals On Wheels,2,58,4.9,34.99
+382,Duplo,Grandpa Pig'S Garden And Greenhouse,2,102,5.0,79.99
+383,Duplo,Hopsy'S Castle Game,3,47,4.7,39.99
+384,Duplo,Lego® Education My Xl World,2,480,,339.99
+385,Duplo,First Time: Visit With The Doctor,2,65,4.9,39.99
+386,Duplo,Mickey & Minnie Birthday Train,2,22,4.9,34.99
+387,Duplo,Mack At The Race,2,14,5.0,19.99
+388,Duplo,Steam Park,3,295,5.0,264.99
+389,Duplo,3In1 Family House,3,218,4.9,139.99
+390,Duplo Peppa Pig,Peppa Pig Supermarket,2,70,4.9,69.99
+391,Duplo Peppa Pig,Peppa Pig Garden And Tree House,2,20,5.0,19.99
+392,Duplo Peppa Pig,Funfair,2,53,4.9,49.99
+393,Duplo Peppa Pig,Camping Trip,2,32,5.0,19.99
+394,Duplo Peppa Pig,Peppa Pig Birthday House,2,59,4.9,44.99
+395,Duplo Peppa Pig,Peppa Pig Boat Trip,2,23,4.4,29.99
+396,Duplo Peppa Pig,Grandpa Pig'S Garden And Greenhouse,2,102,5.0,79.99
+397,Education,Lego® Education Spike Prime Set,10,528,4.7,494.99
+398,Education,Lego® Education Spike Prime Expansion Set,10,604,5.0,154.99
+399,Education,Lego® Education Spike Essential Set,6,449,4.5,374.99
+400,Education,Lego® Technic Small Hub,6,2,1.8,259.99
+401,Education,Lego® Education My Xl World,2,480,,339.99
+402,Education,Steam Park,3,295,5.0,264.99
+403,Friends,Andrea'S Modern Mansion,14,2275,4.9,199.99
+404,Friends,Panda Sanctuary Animal Care,7,243,5.0,29.99
+405,Friends,Hair Salon And Accessories Store,7,347,4.9,44.99
+406,Friends,Heartlake City Apartments And Stores,12,2040,5.0,169.99
+407,Friends,Comic Book And Game Store,9,1005,4.9,89.99
+408,Friends,Friendship Camper Van Adventure,7,778,4.8,59.99
+409,Friends,Lego® Friends Advent Calendar 2025,6,237,4.7,26.99
+410,Friends,Friendship Tree House Hangout,8,701,5.0,69.99
+411,Friends,Cat Birthday Party & Tree House,6,321,4.9,29.99
+412,Friends,Horse And Pet Vet Clinic,7,428,5.0,49.99
+413,Friends,Costume Party With Unicorn & Fairy,6,261,5.0,39.99
+414,Friends,Puppy Playground,4,66,5.0,9.99
+415,Friends,Aliya'S Baby Sister'S Playroom,6,125,4.0,17.99
+416,Friends,Pet Accessories Shop,6,375,5.0,39.99
+417,Friends,Friendship Movie Night,6,154,5.0,14.99
+418,Friends,Vintage Fashion Store,6,409,5.0,39.99
+419,Friends,Vintage Fashion Store,6,409,5.0,39.99
+420,Friends,Autumn’S Room,6,222,4.8,19.99
+421,Friends,Adventure Camp Cozy Cabins,7,437,4.9,44.99
+422,Friends,Pony Ranch & Stable,7,727,5.0,69.99
+423,Friends,Family Vacation Beach Resort,8,1140,4.8,129.99
+424,Friends,Unicorn & Flamingo Pool Party,5,99,5.0,9.99
+425,Friends,Adventure Camp Water Sports,7,628,4.9,69.99
+426,Friends,Music Store & Apartment,7,483,4.8,49.99
+427,Friends,Beekeepers' House And Flower Garden,12,1161,4.8,99.99
+428,Friends,Plant Café & Flower Shop,9,1138,4.9,89.99
+429,Friends,Friendship Road-Trip Travel Car,6,220,4.8,19.99
+430,Friends,Adventure Camp Archery Range,6,157,4.9,14.99
+431,Friends,Cotton Candy Stand And Scooter,6,110,4.6,9.99
+432,Friends,Travel Boat Adventure,8,685,4.8,74.99
+433,Friends,Surfing Dogs And Scooter Adventure,6,113,5.0,14.99
+434,Friends,Beach Water Scooter,5,84,3.0,9.99
+435,Friends,Stargazing Camping Vehicle,7,364,4.8,29.99
+436,Friends,Beach Smoothie Stand,6,213,5.0,19.99
+437,Friends,Karaoke Music Party,6,196,4.9,19.99
+438,Friends,Heartlake City Shopping Mall,8,1237,5.0,119.99
+439,Friends,Paisley'S Room,6,199,4.7,19.99
+440,Friends,Castle Bed And Breakfast,12,1311,5.0,99.99
+441,Friends,Heartlake City Café,6,426,4.9,29.99
+442,Friends,Horse And Pony Trailer,4,105,4.9,19.99
+443,Friends,Olly And Paisley'S Family Houses,7,1126,4.8,99.99
+444,Friends,Heartlake City Community Center,9,1513,4.9,149.99
+445,Friends,Restaurant And Cooking School,8,896,4.7,79.99
+446,Friends,Heartlake City Sweet Shop,6,376,4.8,29.99
+447,Friends,Creative Beach And Travel Suitcase,5,188,4.7,29.99
+448,Friends,Heartlake City Ice Cream Truck,4,92,4.9,19.99
+449,Friends,Guinea Pig Playground,5,86,5.0,9.99
+450,Friends,Heartlake City Airport And Airplane,8,958,4.6,99.99
+451,Fortnite,Battle Bus,10,954,4.4,99.99
+452,Fortnite,Durrr Burger,9,193,4.6,14.99
+453,Fortnite,Supply Llama,12,691,5.0,39.99
+454,Fortnite,Drift & Raven Figures,10,280,4.9,19.99
+455,Fortnite,Mecha Team Leader,18,2503,5.0,229.99
+456,Fortnite,Klombo,10,1084,4.6,99.99
+457,Fortnite,Peely & Sparkplug'S Camp,7,250,4.6,19.99
+458,Fortnite,Durrr Burger Restaurant,10,546,4.7,59.99
+459,Fortnite,Peely Bone,18,1414,4.3,99.99
+460,Gabby'S Dollhouse,Gabby'S Dollhouse,4,498,2.0,79.99
+461,Gabby'S Dollhouse,Mermaid Gabby'S Aquarium Adventure,4,103,1.0,19.99
+462,Gabby'S Dollhouse,Sweet Treat Mountain & Kitty Garden,4,263,4.8,49.99
+463,Gabby'S Dollhouse,Crafting With Baby Box,4,60,5.0,14.99
+464,Gabby'S Dollhouse,Gabby'S Party Room,4,252,4.9,49.99
+465,Harry Potter,Hogsmeade Village – Collectors' Edition,18,3228,5.0,379.99
+466,Harry Potter,Gringotts Wizarding Bank – Collectors' Edition,18,4803,4.5,429.99
+467,Harry Potter,Flying Ford Anglia,7,165,4.7,14.99
+468,Harry Potter,Knight Bus Adventure,8,499,4.8,49.99
+469,Harry Potter,Chomping Monster Book Of Monsters,9,518,4.5,59.99
+470,Harry Potter,The Burrow – Collectors' Edition,18,2405,5.0,259.99
+471,Harry Potter,Privet Drive: Aunt Marge'S Visit,8,639,5.0,89.99
+472,Harry Potter,Hogwarts Castle,16,6020,4.9,469.99
+473,Harry Potter,Diagon Alley Wizarding Shops,18,2750,5.0,199.99
+474,Harry Potter,Hogwarts Express  Train Set With Hogsmeade Station,8,1074,4.7,129.99
+475,Harry Potter,Lego® Harry Potter Advent Calendar 2025,7,278,4.7,34.99
+476,Harry Potter,Fawkes: Dumbledore'S Phoenix,8,299,4.0,19.99
+477,Harry Potter,Hogwarts Castle And Grounds,18,2660,4.6,169.99
+478,Harry Potter,Talking Sorting Hat,18,561,4.7,99.99
+479,Harry Potter,Hagrid & Harry'S Motorcycle Ride,9,617,4.8,49.99
+480,Harry Potter,Hogwarts Castle: Potions Class,8,397,4.8,39.99
+481,Harry Potter,Hedwig At 4 Privet Drive,7,337,4.5,19.99
+482,Harry Potter,Hogwarts Castle Owlery,8,364,4.8,44.99
+483,Harry Potter,Hogwarts Castle: Charms Class,8,204,4.5,19.99
+484,Harry Potter,Book Nook: Hogwarts Express,10,832,4.2,99.99
+485,Harry Potter,Hogwarts Castle: Dueling Club,8,158,4.9,24.99
+486,Harry Potter,Mandrake,10,579,4.9,69.99
+487,Harry Potter,Hogwarts Castle: The Great Hall,10,1732,4.7,199.99
+488,Harry Potter,Malfoy Manor,10,1601,5.0,149.99
+489,Harry Potter,The Goblet Of Fire Figures,10,671,4.0,49.99
+490,Harry Potter,Hogwarts Castle: Herbology Class,8,390,5.0,49.99
+491,Harry Potter,Hogwarts Castle: Flying Lessons,9,651,4.5,79.99
+492,Harry Potter,Hogwarts Castle: The Main Tower,10,2135,4.8,249.99
+493,Harry Potter,Luna Lovegood & Thestral Figures,10,292,5.0,19.99
+494,Harry Potter,Hogwarts Castle Boathouse,8,350,4.8,37.99
+495,Harry Potter,Thestral Family,10,548,4.7,69.99
+496,Harry Potter,Quality Quidditch Supplies & Ice Cream Parlour,8,795,4.9,99.99
+497,Harry Potter,Ollivanders & Madam Malkin'S Robes,8,744,4.6,89.99
+498,Harry Potter,Hagrid'S Hut: An Unexpected Visit,8,896,4.7,74.99
+499,Harry Potter,Aragog In The Forbidden Forest,7,195,4.8,19.99
+500,Harry Potter,Dobby The House-Elf,8,403,4.9,29.99
+501,Harry Potter,Buckbeak,9,723,4.7,59.99
+502,Icons,Tropical Aquarium,18,4154,2.6,449.99
+503,Icons,Star Trek: U.S.S. Enterprise Ncc-1701-D,18,3600,,379.99
+504,Icons,Holiday Express Train,18,956,2.9,119.99
+505,Icons,How To Train Your Dragon: Toothless,18,784,4.8,69.99
+506,Icons,The Simpsons: Krusty Burger,18,1635,4.3,199.99
+507,Icons,Shelby Cobra 427 S/C,18,1241,4.2,149.99
+508,Icons,Family Christmas Tree,9,3171,2.4,299.99
+509,Icons,Back To The Future Time Machine,18,1872,4.4,199.99
+510,Icons,Sherlock Holmes: Book Nook,18,1359,4.7,119.99
+511,Icons,Retro Radio,18,906,4.5,99.99
+512,Icons,Natural History Museum,18,4014,5.0,299.99
+513,Icons,Tudor Corner,18,3266,4.7,229.99
+514,Icons,Land Rover Classic Defender 90,18,2336,4.4,239.99
+515,Icons,Transformers: Soundwave,18,1505,4.7,179.99
+516,Icons,Concorde,18,2083,4.6,199.99
+517,Icons,Jazz Club,18,2899,4.4,229.99
+518,Icons,Jazz Club,18,2899,4.4,229.99
+519,Icons,Shuttle Carrier Aircraft,18,2417,4.7,229.99
+520,Icons,Mclaren Mp4/4 & Ayrton Senna,18,693,2.4,79.99
+521,Icons,Tranquil Garden,18,1363,4.8,104.99
+522,Icons,Porsche 911,18,1458,4.5,169.99
+523,Icons,Leonardo Da Vinci'S Flying Machine,18,493,4.8,59.99
+524,Icons,Captain Jack Sparrow'S Pirate Ship,18,2862,4.4,349.99
+525,Icons,Santa'S Post Office,18,1440,4.8,99.99
+526,Icons,Williams Racing Fw14B & Nigel Mansell,18,799,4.5,79.99
+527,Icons,Bonsai Tree,18,878,4.4,49.99
+528,Icons,Boutique Hotel,18,3066,4.8,229.99
+529,Icons,Lego® Titanic,18,9090,4.7,679.99
+530,Icons,Orchid,18,608,5.0,49.99
+531,Icons,Lion Knights' Castle,18,4514,5.0,399.99
+532,Icons,The Endurance,18,3011,4.6,269.99
+533,Icons,Eiffel Tower,18,10001,4.1,629.99
+534,Icons,Pac-Man Arcade,18,2651,4.7,269.99
+535,Icons,Kingfisher Bird,18,834,5.0,49.99
+536,Icons,The Lord Of The Rings: The Shire,18,2017,4.5,269.99
+537,Icons,Lamborghini Countach 5000 Quattrovalvole,18,1506,3.4,179.99
+538,Icons,Alpine Lodge,18,1517,4.3,99.99
+539,Icons,The Lord Of The Rings: Barad-Dûr,18,5471,4.3,459.99
+540,Icons,The Lord Of The Rings: Rivendell,18,6167,4.8,499.99
+541,Icons,Medieval Town Square,18,3304,4.9,229.99
+542,Icons,Nasa Artemis Space Launch System,18,3601,4.5,259.99
+543,Icons,Succulents,18,771,4.6,49.99
+544,Icons,Bumblebee,18,950,4.4,89.99
+545,Icons,Optimus Prime,18,1508,4.2,179.99
+546,Icons,French Café,18,1101,4.9,79.99
+547,Icons,Flower Bouquet,18,756,4.6,59.99
+548,Icons,The Lord Of The Rings: Balrog Book Nook,18,1201,3.8,119.99
+549,Icons,Dune Atreides Royal Ornithopter,18,1369,4.8,164.99
+550,Icons,Over The Moon With Pharrell Williams,18,966,4.3,109.99
+551,Icons,Fountain Garden,18,1302,4.9,99.99
+552,Ideas,The Goonies,18,2912,4.6,299.99
+553,Ideas,Gremlins: Gizmo,18,1125,5.0,99.99
+554,Ideas,Italian Riviera,18,3251,4.9,279.99
+555,Ideas,Willy Wonka & The Chocolate Factory,18,2025,4.6,219.99
+556,Ideas,Mineral Collection,18,880,4.3,59.99
+557,Ideas,Lego® Ideas Home Alone,18,3955,4.7,299.99
+558,Ideas,Tuxedo Cat,18,1710,4.8,99.99
+559,Ideas,Minifigure Vending Machine,18,1343,4.8,169.99
+560,Ideas,Red London Telephone Box,18,1460,4.7,114.99
+561,Ideas,Jaws,18,1503,4.4,149.99
+562,Ideas,The Insect Collection,18,1111,4.2,79.99
+563,Ideas,Vincent Van Gogh - The Starry Night,18,2316,4.7,169.99
+564,Ideas,Disney Pixar Luxo Jr.,18,613,4.8,69.99
+565,Ideas,Viking Village,18,2103,4.7,139.99
+566,Ideas,The Botanical Garden,18,3792,4.9,329.99
+567,Ideas,The Orient Express Train,18,2540,4.4,299.99
+568,Ideas,Twilight The Cullen House,18,2001,4.0,219.99
+569,Ideas,Motorised Lighthouse,18,2065,5.0,299.99
+570,Ideas,Polaroid Onestep Sx-70 Camera,18,516,5.0,79.99
+571,Ideas,Dungeons & Dragons: Red Dragon'S Tale,18,3745,4.7,359.99
+572,Ideas,Disney Tim Burton'S The Nightmare Before Christmas,18,2193,4.6,199.99
+573,Ideas,River Steamboat,18,4090,4.0,329.99
+574,Ideas,Grand Piano,18,3662,4.3,399.99
+575,Ideas,The Evolution Of Stem,18,879,4.6,79.99
+576,Ideas,Magic Of Disney,18,1103,4.5,99.99
+577,Ideas,Family Tree,18,1040,4.5,89.99
+578,Jurassic World,Dinosaur Fossils: Tyrannosaurus Rex,18,3145,4.9,249.99
+579,Jurassic World,Dinosaur Fossils: T. Rex Skull,9,577,5.0,39.99
+580,Jurassic World,Dinosaur Fossils: Triceratops Skull,9,468,5.0,44.99
+581,Jurassic World,Little Eatie: T. Rex,7,317,4.9,24.99
+582,Jurassic World,Baby Dinosaur Dolores: Aquilops,7,339,4.8,24.99
+583,Jurassic World,T. Rex River Escape,5,199,4.8,49.99
+584,Jurassic World,Spinosaurus & Quetzalcoatlus Air Mission,8,984,4.7,149.99
+585,Jurassic World,Raptor Off-Road Escape,6,285,4.5,34.99
+586,Jurassic World,Raptor & Titanosaurus Tracking Mission,7,582,5.0,99.99
+587,Jurassic World,Dinosaur Missions: Stegosaurus Discovery,6,420,4.5,64.99
+588,Jurassic World,Brick-Built Mosasaurus Boat Mission,9,858,4.9,59.99
+589,Jurassic World,Dinosaur Missions: Allosaurus Transport Truck,8,588,5.0,89.99
+590,Jurassic World,Baby Dinosaur Rescue Center,4,139,4.8,39.99
+591,Jurassic World,Baby Bumpy: Ankylosaurus,7,358,5.0,24.99
+592,Lord Of The Rings,The Lord Of The Rings: Rivendell,18,6167,4.8,499.99
+593,Lord Of The Rings,The Lord Of The Rings: Barad-Dûr,18,5471,4.3,459.99
+594,Lord Of The Rings,The Lord Of The Rings: The Shire,18,2017,4.5,269.99
+595,Lord Of The Rings,The Lord Of The Rings: Balrog Book Nook,18,1201,3.8,119.99
+596,Marvel,Spider-Man: Across The Spider-Verse,5,8,5.0,3.99
+597,Marvel,Iron Man Mark 3 Collectors' Edition,18,1297,,129.99
+598,Marvel,Spider-Man Vs. Mysterio: The Daily Bugle,10,781,,109.99
+599,Marvel,Avengers Tower,18,5201,4.7,499.99
+600,Marvel,Spider-Man'S Mask,18,487,4.4,69.99
+601,Marvel,Potted Groot,10,113,4.8,9.99
+602,Marvel,X-Men: The X-Mansion,18,3093,2.0,329.99
+603,Marvel,Infinity Gauntlet,18,590,4.6,89.99
+604,Marvel,Miles Morales' Mask,18,487,4.7,69.99
+605,Marvel,Peter Parker’S Apartment,8,394,4.6,49.99
+606,Marvel,Spider-Man Vs. Doc Ock Subway Train Scene,9,393,5.0,49.99
+607,Marvel,Iron Man Mk4 Bust,18,436,3.5,59.99
+608,Marvel,Dancing Groot,10,459,4.7,44.99
+609,Marvel,Epic Battle: Hulkbuster Vs. The Hulk,9,413,,49.99
+610,Marvel,Spider-Man Car Vs. Venomized Wolverine,7,134,,19.99
+611,Marvel,Iron Spider-Man,10,91,4.9,9.99
+612,Marvel,Iron Spider-Man,10,91,4.9,9.99
+613,Marvel,Iron Spider-Man Bust,18,379,4.6,59.99
+614,Marvel,Spider-Man Final Battle,10,900,4.7,104.99
+615,Marvel,Avengers: Endgame Final Battle,10,621,3.3,99.99
+616,Marvel,New Captain America Construction Figure,8,359,5.0,34.99
+617,Marvel,Guardians Of The Galaxy: The Milano,12,2090,4.8,179.99
+618,Marvel,Marvel Logo & Minifigures,12,931,4.2,99.99
+619,Marvel,Rocket & Baby Groot,10,566,4.6,59.99
+620,Marvel,The Avengers Assemble: Age Of Ultron,10,613,4.7,99.99
+621,Marvel,Spider-Man Vs. Oscorp,10,808,4.4,129.99
+622,Marvel,Spider-Verse: Miles Morales Vs. The Spot,9,375,4.1,49.99
+623,Marvel,Thor Vs. Surtur Construction Figure,8,245,4.8,29.99
+624,Marvel,War Machine Mech Armor,6,154,4.8,14.99
+625,Marvel,Iron Man Mech Vs. Ultron,6,101,4.1,14.99
+626,Marvel,Fantastic Four Vs. Galactus Construction Figure,9,427,4.2,59.99
+627,Marvel,Avengers: Age Of Ultron Quinjet,12,1131,4.8,119.99
+628,Marvel,Iron Man Mk5 Figure,10,101,5.0,9.99
+629,Marvel,Spider-Man Mech Vs. Anti-Venom,6,107,4.9,14.99
+630,Marvel,Iron Man & War Machine Vs. Hammer Drones,7,204,4.7,19.99
+631,Marvel,Iron Man'S Laboratory: Hall Of Armor,8,384,3.6,54.99
+632,Marvel,Avengers: Endgame Thor Vs. Chitauri,8,373,4.7,49.99
+633,Marvel,The Hulk Truck Vs. Thanos,7,229,4.9,29.99
+634,Marvel,The Avengers Vs. The Leviathan,7,347,4.7,49.99
+635,Marvel,Captain America: Civil War Action Battle,10,736,3.3,99.99
+636,Marvel,Team Spidey Dino Crawler Rescue,4,136,5.0,29.99
+637,Marvel,Spider-Man Vs. Venom Muscle Car,7,254,4.7,29.99
+638,Marvel,Captain America Vs. Red Hulk Battle,8,223,3.5,54.99
+639,Marvel,Iron Man & Iron Legion Vs. Hydra Soldier,6,135,4.6,21.99
+640,Marvel,Captain America Vs. Thanos,4,107,4.1,34.99
+641,Marvel,Spider-Man Race Car & Venom Green Goblin,7,227,4.5,29.99
+642,Marvel,Spin And Electro Dinosaur Vehicle Chase,4,124,5.0,19.99
+643,Marvel,Spin'S Motorcycle Adventure,2,24,4.8,19.99
+644,Marvel,Epic Battle: Spider-Man Vs. Sandman,9,201,,24.99
+645,Marvel,Spidey And Gobby'S Raptor Battle At Tree House Hq,4,143,4.8,54.99
+646,Marvel,Captain America & Red Hulk Figures,10,202,5.0,19.99
+647,Marvel,Spider-Man Vs. Ghost Rider Motorcycle,6,72,,9.99
+648,Marvel,Daily Bugle,18,3789,4.8,349.99
+649,Marvel,Spider-Man Vs. Sandman: Final Battle,10,347,4.7,37.99
+650,Marvel,Venom Mech Armor Vs. Miles Morales,6,134,4.8,14.99
+651,Marvel,Iron Man Car & Black Panther Vs. Red Hulk,7,295,4.8,29.99
+652,Marvel,Team Spidey Web Spinner Headquarters,4,193,1.0,54.99
+653,Marvel,Iron Spider-Man Construction Figure,8,303,4.9,34.99
+654,Marvel,Spider-Man'S Car And Doc Ock,4,48,5.0,9.99
+655,Marvel,Iron Man With Bike And The Hulk,4,68,4.6,14.99
+656,Marvel,X-Men X-Jet,8,359,3.0,84.99
+657,Marvel,Green Goblin Construction Figure,8,471,4.5,37.99
+658,Minecraft,Baby Pig'S Birthday Celebration,8,351,5.0,19.99
+659,Minecraft,The Creeper,10,665,5.0,39.99
+660,Minecraft,Nether & End Portal Journey,7,192,,14.99
+661,Minecraft,The Crafting Table,18,1195,4.9,89.99
+662,Minecraft,The Tnt Jungle House,8,287,4.9,29.99
+663,Minecraft,Zombie Dungeon,8,284,,29.99
+664,Minecraft,The Nether Lava Battle,6,99,4.4,9.99
+665,Minecraft,The Baby Pig House,7,238,4.9,19.99
+666,Minecraft,Chicken Farm,7,233,,19.99
+667,Minecraft,The Warden Encounter,7,238,4.7,19.99
+668,Minecraft,The Fox,10,497,,44.99
+669,Minecraft,The Fox Lodge,8,193,4.8,19.99
+670,Minecraft,The Turtle Beach House,8,234,4.9,26.99
+671,Minecraft,The Pickaxe Mine,8,530,4.9,54.99
+672,Minecraft,Mini Biomes,12,797,,59.99
+673,Minecraft,The Trial Chamber,8,322,4.8,39.99
+674,Minecraft,The Ender Dragon And End Ship,8,657,5.0,79.99
+675,Minecraft,The Parrot Houses,8,535,4.8,69.99
+676,Minecraft,Woodland Mansion Fighting Ring,10,491,4.9,49.99
+677,Minecraft,The Pale Garden,7,243,,19.99
+678,Minecraft,The Windmill Farm,8,462,4.9,54.99
+679,Minecraft,The Enderman Tower,9,867,4.9,99.99
+680,Minecraft,Wither Battle,8,494,,64.99
+681,Minecraft,The Illager Desert Patrol,7,105,5.0,14.99
+682,Minecraft,The Cherry Blossom Garden,8,304,4.9,27.99
+683,Minecraft,The Pillager Outpost And Ravager,9,665,4.5,79.99
+684,Minecraft,The Mooshroom House,8,500,5.0,49.99
+685,Minecraft,Steve'S Desert Expedition,6,75,4.4,9.99
+686,Minecraft,The Nether Portal Ambush,8,352,4.9,37.99
+687,Minecraft,The Frog House,8,400,4.7,54.99
+688,Minecraft,The Ghast Balloon Village Attack,10,555,4.9,69.99
+689,Minecraft,The Badlands Mineshaft,8,538,4.9,59.99
+690,Minecraft,The Armory,7,203,4.9,19.99
+691,Minecraft,Lego® Minecraft® Advent Calendar 2025,7,300,5.0,34.99
+692,Minecraft,Steve'S Taiga Adventure,6,79,,9.99
+693,Minecraft,The Armadillo Mine Expedition,8,247,4.9,29.99
+694,Minecraft,The Pirate Ship Voyage,8,166,4.5,14.99
+695,Minifigures,Spider-Man: Across The Spider-Verse,5,8,5.0,3.99
+696,Minifigures,Up-Scaled Racing Driver Minifigure,10,694,4.8,54.99
+697,Minifigures,Up-Scaled Lego® Minifigure,10,654,4.7,54.99
+698,Minifigures,Up-Scaled Santa Minifigure,10,761,4.5,54.99
+699,Minifigures,Series 27,5,9,3.0,3.99
+700,Monkie Kid,Megapolis City 5Th Anniversary,10,2330,4.6,179.99
+701,Monkie Kid,Monkey King Ultra Mech,10,1705,4.7,139.99
+702,Monkie Kid,Celestial Pagoda,10,1621,5.0,139.99
+703,Monkie Kid,Mythical Creature Qilin,9,791,4.9,59.99
+704,Monkie Kid,Nine-Headed Beast,9,757,5.0,84.99
+705,Monkie Kid,Monkie Kid'S Mini Mech,8,556,4.9,44.99
+706,Monkie Kid,Erlang'S Celestial Mech,9,806,4.6,79.99
+707,Monkie Kid,Monkie Kid'S Combi Mech,7,277,4.8,19.99
+708,Monkie Kid,Nezha'S Ring Of Fire Mech,9,1163,4.8,109.99
+709,Monkie Kid,Monkie Kid'S Team Power Truck,7,712,5.0,69.99
+710,Nike X  Collection,Nike Dunk X Lego® Set,10,1180,4.7,99.99
+711,Nike X  Collection,Nike Dunk Trickshot,10,454,4.8,39.99
+712,Nike X  Collection,Nike Slam Dunk,10,809,5.0,69.99
+713,Ninjago,Ninjago® City Markets,14,6163,4.8,369.99
+714,Ninjago,Thunderfang Dragon Of Chaos,8,668,5.0,74.99
+715,Ninjago,Ninjago® City Workshops,14,3244,4.6,249.99
+716,Ninjago,Ras And Arin'S Super Storm Jet,8,510,4.8,49.99
+717,Ninjago,Dragonian Storm Village,7,305,3.3,39.99
+718,Ninjago,Kai'S Motorcycle Speed Race,6,79,5.0,9.99
+719,Ninjago,The Fire Knight Mech,14,996,5.0,119.99
+720,Ninjago,Dragon Spinjitzu Battle Pack,6,186,5.0,19.99
+721,Ninjago,The Guardian Dragon,14,1650,5.0,149.99
+722,Ninjago,Lloyd’S Jet Mech,9,1112,5.0,99.99
+723,Ninjago,Kai'S Elemental Fire Mech,7,322,4.6,29.99
+724,Ninjago,The Temple Bounty,14,2387,4.5,199.99
+725,Ninjago,Arin'S Spinjitzu Battle Mech,7,213,5.0,19.99
+726,Ninjago,Cole'S Titan Dragon Mech,12,1055,4.9,99.99
+727,Ninjago,Wolf Mask Shadow Dojo,9,1190,5.0,119.99
+728,Ninjago,Rontu The Master Dragon,7,381,5.0,44.99
+729,Ninjago,Zane'S Battle Suit Mech,6,92,4.3,9.99
+730,Ninjago,Rogue'S Mech Dragon Rider,8,584,4.9,69.99
+731,Ninjago,Arc Dragon Of Focus,9,869,5.0,99.99
+732,Ninjago,Tournament Temple City,14,3489,5.0,249.99
+733,Ninjago,Kai’S Ninja Race Car Evo,6,94,4.0,9.99
+734,Ninjago,Ninja Spinjitzu Temple,4,158,4.8,39.99
+735,Ninjago,Kai'S Mech Storm Rider,7,333,4.9,49.99
+736,Ninjago,Tournament Battle Arena,7,659,4.6,49.99
+737,Ninjago,Ninja Combat Vehicle,8,561,2.7,89.99
+738,Ninjago,Zane'S Ultra Combiner Mech,9,1187,4.9,99.99
+739,Ninjago,Rogue Vs. Drix Race Car Duel,4,111,4.7,19.99
+740,Ninjago,Arin'S Battle Mech,4,104,4.9,14.99
+741,Ninjago,Sora'S Dragon Spinjitzu Spinner,6,56,5.0,9.99
+742,Ninjago,Arin'S Ninja Off-Road Buggy Car,7,267,4.7,49.99
+743,Ninjago,Four Weapons Blacksmith 15Th Anniversary,14,1259,,99.99
+744,Ninjago,Jay'S Mech Battle Pack,6,78,4.9,9.99
+745,Ninjago,Cole'S Elemental Earth Mech,7,235,4.8,19.99
+746,Ninjago,Source Dragon Of Motion,12,1716,4.4,149.99
+747,Ninjago,Lloyd'S Pull-Back Race Car,7,181,4.6,24.99
+748,Ninjago,Young Dragon Riyu,6,132,5.0,14.99
+749,Ninjago,Ninja Team Combo Vehicle,9,576,4.1,89.99
+750,Ninjago,Zane'S Ice Motorcycle,7,84,5.0,9.99
+751,Ninjago,Sora'S Elemental Tech Mech,7,209,5.0,19.99
+752,Ninjago,Lloyd'S Green Forest Dragon,6,128,4.8,19.99
+753,Ninjago,Kai'S Ninja Climber Mech,9,623,4.8,69.99
+754,Ninjago,Kai'S Dragon Spinjitzu Spinner,6,54,4.8,9.99
+755,One Piece,The Going Merry Pirate Ship,10,1376,4.5,129.99
+756,One Piece,Buggy The Clown Figure,10,176,5.0,9.99
+757,One Piece,The Baratie Floating Restaurant,18,3402,4.7,299.99
+758,One Piece,Windmill Village Hut,8,299,4.7,29.99
+759,One Piece,Battle At Arlong Park,9,926,3.8,79.99
+760,One Piece,Buggy The Clown'S Circus Tent,8,573,4.7,49.99
+761,Powered Up,Grand Piano,18,3662,4.3,399.99
+762,Powered Up,Train Motor,7,7,5.0,13.99
+763,Powered Up,Remote Control,7,1,2.0,22.99
+764,Powered Up,Express Passenger Train,7,764,4.3,159.99
+765,Powered Up,Audi Rs Q E-Tron,10,914,4.2,169.99
+766,Powered Up,Battery Box,7,1,2.2,34.99
+767,Powered Up,Hub,7,1,2.4,49.99
+768,Powered Up,Liebherr Crawler Crane Lr 13000,18,2883,2.4,679.99
+769,Powered Up,Cargo Train,6,1226,5.0,189.99
+770,Powered Up,Light,7,1,4.3,9.99
+771,Powered Up,Lego Usb Power Adapter,7,1,2.3,34.99
+772,Serious Play,Starter Kit,6,234,4.2,26.95
+773,Serious Play,Identity And Landscape Kit,6,2808,3.0,699.99
+774,Serious Play,Window Exploration Bag,6,5100,3.7,359.99
+775,Serious Play,Connections Kit,6,2455,5.0,559.99
+776,Sonic The Hedgehog,Super Sonic Vs. Egg Drillster,8,590,4.6,79.99
+777,Sonic The Hedgehog,Shadow The Hedgehog,18,720,4.9,69.99
+778,Sonic The Hedgehog,Team Sonic Command Truck,8,747,4.8,69.99
+779,Sonic The Hedgehog,Shadow The Hedgehog Escape,8,196,4.5,20.99
+780,Sonic The Hedgehog,Sonic'S Campfire Clash,7,177,4.9,19.99
+781,Sonic The Hedgehog,Cyclone Vs. Metal Sonic,8,290,4.9,29.99
+782,Sonic The Hedgehog,Super Shadow Vs. Biolizard,9,419,5.0,44.99
+783,Sonic The Hedgehog,Knuckles Vs. Dr. Eggman Egg Crusher Mech,8,350,4.9,39.99
+784,Sonic The Hedgehog,Knuckles' Guardian Mech,8,276,4.9,34.99
+785,Sonic The Hedgehog,Knuckles And The Master Emerald Shrine,8,325,4.5,34.99
+786,Sonic The Hedgehog,Tails' Adventure Boat,8,393,4.7,54.99
+787,Speed Champions,Time Machine From Back To The Future,9,357,,27.99
+788,Speed Champions,Lightning Mcqueen,9,270,,27.99
+789,Speed Champions,Apxgp Team Race Car From F1® The Movie,10,268,,27.99
+790,Speed Champions,2 Fast 2 Furious Honda S2000,9,300,4.6,26.99
+791,Speed Champions,Oracle Red Bull Racing Rb20 F1® Race Car,18,251,4.8,26.99
+792,Speed Champions,Porsche 911 Gt3 Rs Super Car,9,348,4.6,26.99
+793,Speed Champions,Ferrari Sf-24 F1® Race Car,10,275,4.8,26.99
+794,Speed Champions,Mclaren F1® Team Mcl38 Race Car,10,269,4.8,26.99
+795,Speed Champions,Mercedes-Amg F1® W15 Race Car,10,267,4.8,26.99
+796,Speed Champions,2 Fast 2 Furious Nissan Skyline Gt-R (R34),9,319,4.5,24.99
+797,Speed Champions,Bugatti Centodieci Hyper Sports Car,9,291,4.3,26.99
+798,Speed Champions,Ferrari F40 Supercar,9,318,4.6,26.99
+799,Speed Champions,Kick Sauber F1® Team C44 Race Car,10,259,4.8,26.99
+800,Speed Champions,Williams Racing Fw46 F1® Race Car,10,263,4.8,26.99
+801,Speed Champions,Lamborghini Revuelto & Huracán Sto,10,607,4.7,49.99
+802,Speed Champions,Dodge Challenger Srt Hellcat Sports Car,9,390,4.3,26.99
+803,Speed Champions,Visa Cash App Rb Vcarb 01 F1® Race Car,18,248,4.8,26.99
+804,Speed Champions,Moneygram Haas F1® Team Vf-24 Race Car,10,242,4.9,26.99
+805,Speed Champions,Ford Mustang Dark Horse Sports Car,9,344,4.7,26.99
+806,Speed Champions,Aston Martin Aramco F1® Amr24 Race Car,10,269,4.8,26.99
+807,Speed Champions,Bwt Alpine F1® Team A524 Race Car,10,258,5.0,26.99
+808,Speed Champions,Lamborghini Lambo V12 Vision Gt Super Car,10,230,4.5,26.99
+809,Speed Champions,Aston Martin Safety Car & Amr23,9,564,4.6,49.99
+810,Speed Champions,Mercedes-Amg G 63 & Mercedes-Amg Sl 63,10,808,4.6,49.99
+811,Speed Champions,Nascar® Next Gen Chevrolet Camaro Zl1,9,328,4.7,26.99
+812,Speed Champions,Bmw M4 Gt3 & Bmw M Hybrid V8 Race Cars,9,676,4.7,49.99
+813,Speed Champions,Audi S1 E-Tron Quattro Race Car,9,274,4.8,26.99
+814,Star Wars,Death Star,18,9023,4.5,999.99
+815,Star Wars,Wicket The Ewok,12,1010,4.4,119.99
+816,Star Wars,R2-D2,10,1050,4.8,99.99
+817,Star Wars,Lego®Star Wars Advent Calendar 2025,6,263,3.3,34.99
+818,Star Wars,At-At Driver Helmet,18,730,4.5,79.99
+819,Star Wars,Obi-Wan Kenobi & Darth Vader,10,260,4.7,19.99
+820,Star Wars,Millennium Falcon,18,921,4.7,84.99
+821,Star Wars,Revenge Of The Sith Heroes & Villains,10,656,4.8,49.99
+822,Star Wars,Darth Vader Helmet,18,834,4.7,79.99
+823,Star Wars,327Th Star Corps Clone Troopers Battle Pack,7,258,1.3,39.99
+824,Star Wars,Battle Of Felucia Separatist Mtt,9,976,1.7,149.99
+825,Star Wars,Tie Interceptor,18,1931,4.6,229.99
+826,Star Wars,Millennium Falcon,16,7541,4.5,849.99
+827,Star Wars,Kylo Ren Helmet,18,529,4.0,69.99
+828,Star Wars,Imperial Star Destroyer,10,1555,4.5,169.99
+829,Star Wars,Droideka,18,583,4.7,64.99
+830,Star Wars,Imperial Dropship Vs. Rebel Scout Speeder,8,383,4.2,39.99
+831,Star Wars,Jango Fett'S Firespray-Class Starship,18,2970,4.8,299.99
+832,Star Wars,Luke Skywalker (Rebel Pilot),10,138,5.0,9.99
+833,Star Wars,Coruscant Guard Gunship,9,1083,4.6,149.99
+834,Star Wars,Brick-Builtstar Wars Logo,18,700,4.8,69.99
+835,Star Wars,K-2So Security Droid,10,845,4.9,89.99
+836,Star Wars,Boarding The Tantive Iv,8,502,4.2,54.99
+837,Star Wars,X-Wing Starfighter,18,1953,3.7,239.99
+838,Star Wars,Executor Super Star Destroyer,18,630,4.7,69.99
+839,Star Wars,Darth Maul'S Sith Infiltrator,9,640,4.5,69.99
+840,Star Wars,Venator-Class Republic Attack Cruiser,18,5374,4.5,649.99
+841,Star Wars,Tie Fighter & X-Wing Mash-Up,9,1063,4.7,109.99
+842,Star Wars,Jango Fett'S Starship,9,707,3.5,69.99
+843,Star Wars,Grogu With Hover Pram,10,1048,4.9,99.99
+844,Star Wars,Invisible Hand,18,557,4.7,52.99
+845,Star Wars,At-St Walker,18,1513,4.1,199.99
+846,Star Wars,C-3Po,18,1138,4.6,139.99
+847,Star Wars,The Mandalorian'S N-1 Starfighter,9,412,4.7,64.99
+848,Star Wars,Obi-Wan Kenobi’S Jedi Starfighter,7,282,4.5,34.99
+849,Star Wars,Plo Koon'S Jedi Starfighter Microfighter,6,89,4.7,14.99
+850,Star Wars,Jabba'S Sail Barge,18,3943,4.7,499.99
+851,Star Wars,The Razor Crest,18,6187,4.2,599.99
+852,Star Wars,Clone Trooper & Battle Droid Battle Pack,7,215,4.5,29.99
+853,Star Wars,Gingerbread At-At Walker,10,697,5.0,59.99
+854,Star Wars,Acclamator-Class Assault Ship,18,450,4.6,49.99
+855,Star Wars,Tantive Iv,18,654,4.5,79.99
+856,Star Wars,V-19 Torrent Starfighter,9,567,3.5,64.99
+857,Star Wars,Kylo Ren'S Command Shuttle,18,386,3.5,69.99
+858,Star Wars,At-Te Walker,9,1082,3.7,139.99
+859,Star Wars,The Mandalorian Helmet,18,584,4.0,69.99
+860,Star Wars,Jango Fett Helmet,18,616,4.5,79.99
+861,Star Wars,Ahsoka'S Jedi Interceptor,8,290,4.2,44.99
+862,Star Wars,Battle Droid With Stap,12,1088,4.7,129.99
+863,Star Wars,Arc-170 Starfighter,9,497,3.8,69.99
+864,Star Wars,Darth Maul Mech,6,143,4.5,14.99
+865,Star Wars,Rebel U-Wing Starfighter,8,594,4.6,69.99
+866,Star Wars,Clone Commander Cody,10,147,4.9,9.99
+867,Star Wars,Republic Juggernaut,9,813,1.2,149.99
+868,Star Wars,Captain Rex Y-Wing Microfighter,6,99,4.6,12.99
+869,Star Wars,Captain Rex Helmet,18,854,4.7,69.99
+870,Star Wars,Death Trooper & Night Trooper Battle Pack,6,119,3.2,19.99
+871,Star Wars,Tie Bomber,9,625,4.5,64.99
+872,Star Wars,Mando And Grogu'S N-1 Starfighter,4,92,4.0,29.99
+873,Star Wars,The Dark Falcon,10,1579,4.7,179.99
+874,Star Wars,Chopper (C1-10P) Astromech Droid,10,1039,4.9,109.99
+875,Star Wars,Ambush On Mandalore Battle Pack,6,109,4.6,21.99
+876,Star Wars,Paz Vizsla And Moff Gideon Battle,7,289,5.0,39.99
+877,Star Wars,The Force Burner Snowspeeder,7,349,1.0,49.99
+878,Star Wars,Jedi Bob'S Starfighter,8,305,4.8,39.99
+879,Star Wars,Home One Starcruiser,18,559,4.5,69.99
+880,Star Wars,The Crimson Firehawk,4,136,2.5,52.99
+881,Star Wars,Ahsoka Tano'S Duel On Peridea,8,382,4.3,54.99
+882,Star Wars,Ghost & Phantom Ii,10,1394,4.6,169.99
+883,Star Wars,Desert Skiff & Sarlacc Pit,9,558,3.8,79.99
+884,Star Wars,Ahsoka Tano'S T-6 Jedi Shuttle,9,601,4.5,74.99
+885,Super Mario,Game Boy,18,421,4.8,59.99
+886,Super Mario,Mario Kart – Mario & Standard Kart,18,1972,4.5,169.99
+887,Super Mario,Mario Kart – Yoshi Bike,7,133,4.6,14.99
+888,Super Mario,Piranha Plant,18,540,4.5,64.99
+889,Super Mario,Super Mario World: Mario & Yoshi,18,1215,4.9,129.99
+890,Super Mario,The Mighty Bowser,18,2807,5.0,269.99
+891,Super Mario,Mario Kart – Shy Guy & P-Wing,7,249,4.8,19.99
+892,Super Mario,Mario Kart – Standard Kart,7,174,4.8,19.99
+893,Super Mario,Mario Kart – Wario & King Boo,8,512,4.8,49.99
+894,Super Mario,Mario Kart – Piranha Plant Power-Up Pursuit,8,588,5.0,49.99
+895,Super Mario,Captain Toad'S Camp,6,159,4.8,14.99
+896,Super Mario,Mario Kart – Interactive Lego® Mario & Standard Kart,7,278,5.0,49.99
+897,Super Mario,Party At Toad'S House,7,276,5.0,29.99
+898,Super Mario,Mario Kart – Baby Mario Vs. Baby Luigi,8,321,4.9,29.99
+899,Super Mario,Prince Florian & Castle Bowser,9,1251,5.0,99.99
+900,Super Mario,King Boo'S Haunted Mansion,8,932,4.8,74.99
+901,Super Mario,Adventures With Interactive Lego® Peach,6,208,4.8,49.99
+902,Super Mario,Adventures With Interactive Lego® Luigi,6,210,4.9,49.99
+903,Super Mario,Mario Kart – Bowser'S Castle,9,1068,5.0,99.99
+904,Super Mario,Mario Kart – Toad'S Garage,8,390,4.9,39.99
+905,Super Mario,Mario Kart – Baby Peach & Grand Prix Set,8,823,4.8,79.99
+906,Super Mario,Adventures With Interactive Lego® Mario,6,218,4.5,49.99
+907,Super Mario,Mario Kart – Donkey Kong & Dk Jumbo,8,387,4.9,34.99
+908,Super Mario,Soda Jungle Maker Set,7,598,5.0,54.99
+909,Technic,Mclaren P1,18,3893,4.9,449.99
+910,Technic,Ferrari Fxx K,10,897,5.0,59.99
+911,Technic,Ferrari Sf-24 F1 Car,18,1361,4.7,229.99
+912,Technic,2 Fast 2 Furious Nissan Skyline Gt-R (R34) Car,18,1410,4.9,139.99
+913,Technic,Ford Bronco® Suv,9,943,5.0,59.99
+914,Technic,Oracle Red Bull Racing Rb20 F1 Car,18,1639,4.3,229.99
+915,Technic,Volvo Ec500 Hybrid Excavator,18,2359,2.0,399.99
+916,Technic,Mclaren Formula 1 Race Car,18,1434,5.0,199.99
+917,Technic,Lamborghini Sián Fkp 37,18,3696,4.0,449.99
+918,Technic,Yamaha Mt-10 Sp,18,1478,4.5,229.99
+919,Technic,Mercedes-Amg F1 W14 E Performance,18,1643,5.0,219.99
+920,Technic,Ferrari Daytona Sp3,18,3778,4.9,449.99
+921,Technic,Ducati Panigale V4 S Motorcycle,18,1603,4.9,199.99
+922,Technic,Fast And Furious Toyota Supra Mk4,9,810,4.8,59.99
+923,Technic,Nasa Apollo Lunar Roving Vehicle - Lrv,18,1913,4.9,219.99
+924,Technic,Koenigsegg Jesko Absolut Grey Hypercar,10,801,4.5,52.99
+925,Technic,Bush Plane,8,333,5.0,27.99
+926,Technic,Mercedes-Amg F1 W14 E Performance Pull-Back,7,240,5.0,26.99
+927,Technic,Mercedes-Benz G 500 Professional Line,18,2891,4.7,249.99
+928,Technic,Aston Martin Valkyrie,9,707,4.9,59.99
+929,Technic,Lamborghini Huracán Tecnica Orange,9,806,4.5,52.99
+930,Technic,Monster Jam Digatron Pull-Back,7,218,5.0,27.99
+931,Technic,Bmw M 1000 Rr,18,1921,4.6,249.99
+932,Technic,Peugeot 9X8 24H Le Mans Hybrid Hypercar,18,1775,4.8,199.99
+933,Technic,Volvo L120 Electric Wheel Loader,9,973,4.9,99.99
+934,Technic,Mack® Lr Electric Garbage Truck,8,503,4.6,34.99
+935,Technic,Emirates Team New Zealand Ac75 Yacht,18,962,4.5,119.99
+936,Technic,Lamborghini Revuelto Super Sports Car,10,1135,4.0,179.99
+937,Technic,Koenigsegg Jesko Absolut White Hypercar,10,801,4.0,52.99
+938,Technic,Nasa Mars Rover Perseverance,10,1132,4.2,94.99
+939,Technic,Chevrolet Corvette Stingray Blue,9,732,4.9,59.99
+940,Technic,Monster Jam Thunderroarus Pull-Back,7,232,4.8,27.99
+941,Technic,Off-Road Race Buggy,8,219,5.0,15.99
+942,Technic,Neom Mclaren Formula E Race Car,9,452,4.8,52.99
+943,Technic,Lamborghini Huracán Tecnica,9,806,4.4,52.99
+944,Technic,Bugatti Bolide,9,905,4.8,49.99
+945,Technic,Tipping Dump Truck,9,462,4.8,49.99
+946,Technic,Porsche Gt4 E-Performance Race Car,10,836,4.8,169.99
+947,Technic,Backhoe Loader,7,104,4.8,9.99
+948,Technic,Deep-Sea Research Submarine,9,413,5.0,39.99
+949,Technic,Audi Rs Q E-Tron,10,914,4.2,169.99
+950,Technic,Chevrolet Corvette Stingray,9,732,4.9,59.99
+951,Technic,Mars Crew Exploration Rover,11,1599,4.9,149.99
+952,Technic,Surface Space Loader Lt78,8,435,4.5,34.99
+953,Technic,Lunar Outpost® Moon Rover Space Vehicle,10,1082,4.9,99.99
+954,Technic,Battery Box,7,1,2.2,34.99
+955,Technic,Volvo Fmx Truck & Ec230 Electric Excavator,10,2274,5.0,199.99
+956,Technic,Planet Earth And Moon In Orbit,10,526,4.6,79.99
+957,Technic,2022 Ford Gt,18,1468,4.2,119.99
+958,Technic,Kawasaki Ninja H2R Motorcycle,10,643,4.3,79.99
+959,Technic,Heavy-Duty Bulldozer,7,195,4.5,9.99
+960,Technic,John Deere 9700 Forage Harvester,9,559,4.4,42.99
+961,Technic,Neom Mclaren Extreme E Race Car,7,252,4.9,26.99
+962,Technic,Liebherr Crawler Crane Lr 13000,18,2883,2.4,679.99
+963,Technic,Vtol Heavy Cargo Spaceship Lt81,10,1365,4.9,99.99
+964,Technic,Compact Crawler Crane,10,920,4.0,99.99
+965,Technic,4X4 Mercedes-Benz Zetros Trial Truck,12,2129,3.9,329.99
+966,The Legend Of Zelda,Great Deku Tree 2-In-1,18,2500,4.6,299.99
+967,Wednesday,Morticia'S Cottage,10,1002,4.7,99.99
+968,Wednesday,Black Dahlia Flower,9,358,4.8,24.99
+969,Wednesday,Wednesday & Enid,10,239,4.9,19.99
+970,Wednesday,Wednesday Addams Figure,10,702,4.6,49.99
+971,Wednesday,Thing'S Apartment,10,828,5.0,79.99
+972,Wicked,Emerald City Wall Art,18,1518,4.7,149.99
+973,Wicked,Elphaba & Glinda Figures,10,325,5.0,19.99
+974,Wicked,Glinda & Elphaba Bookends,18,1327,4.5,119.99
+975,Wicked,Emerald City & Kiamo Ko Castle,9,860,4.9,79.99
+976,Wicked,Glinda & Elphaba Visit Munchkinland,9,744,3.0,69.99
+977,Wicked,Glinda & Elphaba'S Dormitory,8,740,4.6,69.99
+978,Wicked,"Glinda, Elphaba & Nessarose At Shiz University",7,304,4.9,29.99
+979,Wicked,Elphaba & Glinda Figures,10,558,4.8,54.99
+980,Wicked,Welcome To Emerald City,9,945,5.0,99.99
+981,Wicked,Elphaba'S Retreat,7,228,3.0,24.99
+982,Wicked,Glinda'S Wedding Day,8,476,4.5,39.99
